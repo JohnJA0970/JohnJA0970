@@ -7,5 +7,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkedin](www.linkedin.com/in/john-abraham0970)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... “I've always been fascinated with Data"
+- ⚡ Fun fact: ... “ I've always been fascinated with Data "
 
